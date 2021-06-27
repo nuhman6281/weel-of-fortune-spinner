@@ -1,1 +1,1 @@
-# weel-of-fortune-spinner
+# wheel-of-fortune-spinner
